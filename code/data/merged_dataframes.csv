@@ -1,0 +1,52 @@
+state,code,region,division,act_17_part,act_17_score,act_18_part,act_18_score,act_19_part,act_19_score,sat_17_part,sat_17_score,sat_18_part,sat_18_score,sat_19_part,sat_19_score
+Alabama,AL,South,East South Central,1.0,19.2,1.0,19.1,1.0,18.9,0.05,1165,0.06,1166,0.07,1143
+Alaska,AK,West,Pacific,0.65,19.8,0.33,20.8,0.38,20.1,0.38,1080,0.43,1106,0.41,1097
+Arizona,AZ,West,Mountain,0.62,19.7,0.66,19.2,0.73,19.0,0.3,1116,0.29,1149,0.31,1134
+Arkansas,AR,South,West South Central,1.0,19.4,1.0,19.4,1.0,19.3,0.03,1208,0.05,1169,0.06,1141
+California,CA,West,Pacific,0.31,22.8,0.27,22.7,0.23,22.6,0.53,1055,0.6,1076,0.63,1065
+Colorado,CO,West,Mountain,1.0,20.8,0.3,23.9,0.27,23.8,0.11,1201,1.0,1025,1.0,1024
+Connecticut,CT,Northeast,New England,0.31,25.2,0.26,25.6,0.22,25.5,1.0,1041,1.0,1053,1.0,1046
+Delaware,DE,South,South Atlantic,0.18,24.1,0.17,23.8,0.13,24.1,1.0,996,1.0,998,1.0,985
+District of Columbia,DC,South,South Atlantic,0.32,24.2,0.32,23.6,0.32,23.5,1.0,950,0.92,977,0.94,975
+Florida,FL,South,South Atlantic,0.73,19.8,0.66,19.9,0.54,20.1,0.83,1017,0.56,1099,1.0,999
+Georgia,GA,South,South Atlantic,0.55,21.4,0.53,21.4,0.49,21.4,0.61,1050,0.7,1064,0.71,1058
+Hawaii,HI,West,Pacific,0.9,19.0,0.89,18.9,0.8,19.0,0.55,1085,0.56,1010,0.54,1100
+Idaho,ID,West,Mountain,0.38,22.3,0.36,22.3,0.31,22.5,0.93,1005,1.0,1001,1.0,993
+Illinois,IL,Midwest,East North Central,0.93,21.4,0.43,23.9,0.35,24.3,0.09,1115,0.99,1019,1.0,1013
+Indiana,IN,Midwest,East North Central,0.35,22.6,0.32,22.5,0.29,22.5,0.63,1074,0.63,1074,0.66,1080
+Iowa,IA,Midwest,West North Central,0.67,21.9,0.68,21.8,0.66,21.6,0.02,1275,0.03,1265,0.03,1244
+Kansas,KS,Midwest,West North Central,0.73,21.7,0.71,21.6,0.72,21.2,0.04,1260,0.04,1265,0.04,1241
+Kentucky,KY,South,East South Central,1.0,20.0,1.0,20.2,1.0,19.8,0.04,1247,0.04,1248,0.04,1232
+Louisiana,LA,South,West South Central,1.0,19.5,1.0,19.2,1.0,18.8,0.04,1198,0.04,1210,0.05,1200
+Maine,ME,Northeast,New England,0.08,24.3,0.07,24.0,0.06,24.3,0.95,1012,0.99,1013,0.99,1013
+Maryland,MD,South,South Atlantic,0.28,23.6,0.31,22.5,0.28,22.3,0.69,1060,0.76,1080,0.82,1058
+Massachusetts,MA,Northeast,New England,0.29,25.4,0.25,25.5,0.21,25.5,0.76,1107,0.8,1125,0.81,1120
+Michigan,MI,Midwest,East North Central,0.29,24.1,0.22,24.2,0.19,24.4,1.0,1005,1.0,1011,1.0,1003
+Minnesota,MN,Midwest,West North Central,1.0,21.5,0.99,21.3,0.95,21.4,0.03,1295,0.04,1298,0.04,1284
+Mississippi,MS,South,East South Central,1.0,18.6,1.0,18.6,1.0,18.4,0.02,1242,0.03,1236,0.03,1237
+Missouri,MO,Midwest,West North Central,1.0,20.4,1.0,20.0,0.82,20.8,0.03,1271,0.04,1262,0.04,1236
+Montana,MT,West,Mountain,1.0,20.3,1.0,20.0,1.0,19.8,0.1,1196,0.1,1198,0.09,1199
+Nebraska,NE,Midwest,West North Central,0.84,21.4,1.0,20.1,1.0,20.0,0.03,1253,0.03,1252,0.03,1260
+Nevada,NV,West,Mountain,1.0,17.8,1.0,17.7,1.0,17.9,0.26,1116,0.23,1140,0.2,1156
+New Hampshire,NH,Northeast,New England,0.18,25.5,0.16,25.1,0.14,25.0,0.96,1052,0.96,1063,0.95,1059
+New Jersey,NJ,Northeast,Middle Atlantic,0.34,23.9,0.31,23.7,0.25,24.2,0.7,1056,0.82,1094,0.82,1090
+New Mexico,NM,West,Mountain,0.66,19.7,0.67,19.4,0.63,19.3,0.11,1138,0.16,1093,0.18,1073
+New York,NY,Northeast,Middle Atlantic,0.31,24.2,0.27,24.5,0.22,24.5,0.67,1052,0.79,1068,0.79,1064
+North Carolina,NC,South,South Atlantic,1.0,19.1,1.0,19.1,1.0,19.0,0.49,1081,0.52,1098,0.51,1100
+North Dakota,ND,Midwest,West North Central,0.98,20.3,0.98,20.3,0.96,19.9,0.02,1256,0.02,1283,0.02,1263
+Ohio,OH,Midwest,East North Central,0.75,22.0,1.0,20.3,1.0,20.0,0.12,1149,0.18,1099,0.19,1097
+Oklahoma,OK,South,West South Central,1.0,19.4,1.0,19.3,1.0,18.9,0.07,1047,0.08,1062,0.22,963
+Oregon,OR,West,Pacific,0.4,21.8,0.42,21.3,0.42,21.1,0.43,1108,0.48,1117,0.51,1112
+Pennsylvania,PA,Northeast,Middle Atlantic,0.23,23.7,0.2,23.5,0.17,23.6,0.65,1071,0.7,1086,0.7,1082
+Rhode Island,RI,Northeast,New England,0.21,24.0,0.15,24.2,0.12,24.7,0.71,1062,0.97,1018,1.0,995
+South Carolina,SC,South,South Atlantic,1.0,18.7,1.0,18.3,0.78,18.8,0.5,1064,0.55,1070,0.68,1030
+South Dakota,SD,Midwest,West North Central,0.8,21.8,0.77,21.9,0.75,21.6,0.03,1216,0.03,1240,0.03,1268
+Tennessee,TN,South,East South Central,1.0,19.8,1.0,19.6,1.0,19.4,0.05,1228,0.06,1231,0.07,1220
+Texas,TX,South,West South Central,0.45,20.7,0.45,20.7,0.39,20.5,0.62,1020,0.66,1032,0.68,1022
+Utah,UT,West,Mountain,1.0,20.3,1.0,20.4,1.0,20.3,0.03,1238,0.04,1010,0.04,1230
+Vermont,VT,Northeast,New England,0.29,23.6,0.24,24.1,0.2,24.1,0.6,1114,0.64,1120,0.66,1106
+Virginia,VA,South,South Atlantic,0.29,23.8,0.24,23.9,0.21,24.0,0.65,1102,0.68,1117,0.68,1119
+Washington,WA,West,Pacific,0.29,21.9,0.24,22.2,0.24,22.1,0.64,1075,0.69,1081,0.7,1074
+West Virginia,WV,South,South Atlantic,0.69,20.4,0.65,20.3,0.49,20.8,0.14,1086,0.28,999,0.99,943
+Wisconsin,WI,Midwest,East North Central,1.0,20.5,1.0,20.5,1.0,20.3,0.03,1291,0.03,1294,0.03,1283
+Wyoming,WY,West,Mountain,1.0,20.2,1.0,20.0,1.0,19.8,0.03,1230,0.03,1257,0.03,1238
