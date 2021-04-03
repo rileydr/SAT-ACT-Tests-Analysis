@@ -1,6 +1,8 @@
 # OSX DS Store
 .DS_Store
 
+# Folders
+git_ignore/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
