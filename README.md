@@ -1,16 +1,18 @@
-# Project 1: Standardized Test Analysis
+# Project 1: Analysis of Standardized Tests in the US
 
-### Overview and Background
+</br>
+
+## Overview and Background
 
 The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process. This score is used along with other materials such as grade point average (GPA) and essay responses to determine whether or not a potential student will be accepted to the university.
 
 They have different score ranges and categories, which you can read more about on their websites or additional outside sources:
 * [SAT - CollegeBoard](https://collegereadiness.collegeboard.org/sat/inside-the-test)
 * [Additional info](https://www.princetonreview.com/college/sat-sections)
-
-
 * [ACT](https://www.act.org/content/act/en.html)
 * [Additional info](https://www.act.org/content/act/en/products-and-services/the-act/scores/understanding-your-scores.html)
+
+</br>
 
 ### Problem Statement
 
@@ -18,9 +20,9 @@ For college admissions testing, the SAT and the ACT are THE standard. But thereâ
 
 ---
 
-### Datasets
+## Datasets
 
-#### Provided Data
+### Provided Data
 
 
 | **ACT scores and participation by state** | | | |**SAT scores and participation by state** |
@@ -31,8 +33,9 @@ For college admissions testing, the SAT and the ACT are THE standard. But thereâ
 
 The provided data will provide the bulk of what I need for my analysis.
 
+</br>
 
-#### Additional Data
+### Additional Data
 
 **State regional designations used by the US Census Bureau:**  
 
@@ -44,7 +47,7 @@ Source: [GitHub user Chris Halpert (cphalpert)](https://github.com/cphalpert/cen
 Chris sited his source, a file in cenus.gov's document library: [reg_div.txt](https://www2.census.gov/geo/docs/maps-data/maps/reg_div.txt)  
 I found corroboration from another census.gov document ([all-geocodes-v2016.xlsx](https://https://www2.census.gov/programs-surveys/popest/geographies/2016/all-geocodes-v2016.xlsx)) and on NOAA.gov ([U.S. Census Divisions](https://www.ncdc.noaa.gov/monitoring-references/maps/us-census-divisions.php))
 
----
+</br>
 
 **SAT and ACT Participation from 1986-2020:**  
 
@@ -54,6 +57,32 @@ From FairTest.com, I found a report with numbers of participants for each test o
 
 ---
 
+
+## Conclusions and Visualizations
+
+* SAT and ACT share the space â€” the higher a state's participation in one test, the lower participation they tend to have in the other.
+* High average scores can be deceptive due to low participation â€” the higher a state's participation (regardless of the test), the lower the average score tends to be.
+* Would recommend further research and analysis to better understand the reverse correlation between participation in one test vs. the other.
+
+
+
+</br>
+
+<div style='float:left;'>
+<img width='49%' src='https://github.com/rileydr/SAT-ACT-Tests-Analysis/blob/main/Visualizations/Slide2.png?raw=true'>
+<img width='49%' src='https://github.com/rileydr/SAT-ACT-Tests-Analysis/blob/main/Visualizations/Slide3.png?raw=true'>
+</div>
+</br>
+<img width='98%' src='https://github.com/rileydr/SAT-ACT-Tests-Analysis/blob/main/Visualizations/Slide4.png?raw=true' class='center'>
+</br>
+<img width='98%' src='https://github.com/rileydr/SAT-ACT-Tests-Analysis/blob/main/Visualizations/Slide5.png?raw=true'>
+
+
+
+
+
+
+<!--
 ### Data Dictionary
 
 | Feature       | Type   | Dataframe | Dataset              | Description                                                                        |
@@ -85,3 +114,5 @@ From FairTest.com, I found a report with numbers of participants for each test o
 
 
 (Note: I created my data dictionary in excel and converted to markdown using this tool: https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table)
+
+-->
