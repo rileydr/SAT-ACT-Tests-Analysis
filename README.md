@@ -1,4 +1,4 @@
-# Project 1: Analysis of Standardized Tests in the US
+# Analysis of Standardized Tests in the US
 
 </br>
 
